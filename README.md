@@ -1,6 +1,6 @@
 
 # RESTful API menggunakan .NET 6.0
-Untuk mengikuti, Aplikasi ini telah didokumentasikan sebagai artikel di [Xsis Academy Blog](https://blog.xsis.academy).
+Untuk mengikuti, Aplikasi ini telah didokumentasikan sebagai artikel di [Xsis Academy Blog](https://blog.xsis.academy/membuat-restful-api-dengan-net-6-0/).
 
 
 ## Youtube
