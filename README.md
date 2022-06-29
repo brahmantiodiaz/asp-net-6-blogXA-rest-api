@@ -9,7 +9,7 @@ Join in youtube.
 - [Equine Technology Group](https://youtube.com/channel/UCBu9ceRtONcpWqclZHK2jvg).
 
 ## Instagram
-Join in Instagram.
+Join in Instagram [Equine Technology Group](https://www.instagram.com/equinetechnologiesgroup/).
 <br />
 - [Xsis Academy](https://www.instagram.com/xsisacademy/). <br />
 - [Xsis Mitra Utama](https://www.instagram.com/ptxsismitrautama/). <br />
